@@ -1,0 +1,1 @@
+Classes, atributos e membros static.
